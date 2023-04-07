@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_hawaiipl.mk
+    $(LOCAL_DIR)/twrp_hawaiipl.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_hawaiipl-user \
-    omni_hawaiipl-userdebug \
-    omni_hawaiipl-eng
+    twrp_hawaiipl-user \
+    twrp_hawaiipl-userdebug \
+    twrp_hawaiipl-eng

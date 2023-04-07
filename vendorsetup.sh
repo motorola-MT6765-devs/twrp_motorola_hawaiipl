@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_hawaiipl-user
-add_lunch_combo omni_hawaiipl-userdebug
-add_lunch_combo omni_hawaiipl-eng
+add_lunch_combo twrp_hawaiipl-user
+add_lunch_combo twrp_hawaiipl-userdebug
+add_lunch_combo twrp_hawaiipl-eng
